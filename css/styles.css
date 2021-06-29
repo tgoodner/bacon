@@ -1,0 +1,24 @@
+body {
+  background-color: #E5C955;
+  color: #C24242;
+}
+h1 {
+  text-align: center;
+  font-family: cursive, monospace;
+  background-color: #F2F5B1;
+  padding: 10px 0px;
+  width: 100%;
+}
+#poetry {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: groove;
+  border-color: #E08932;
+  border-width: 5px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
